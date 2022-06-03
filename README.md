@@ -1,6 +1,6 @@
 # bookmysport
 
-#Check the Others folder for: 3d models, IoT programming and 
+# Check the Others folder for: 3d models, IoT programming
 
 
 Rest is Flutter
