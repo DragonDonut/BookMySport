@@ -1,5 +1,10 @@
 # bookmysport
 
+#Check the Others folder for: 3d models, IoT programming and 
+
+
+Rest is Flutter
+
 A new Flutter project.
 
 ## Getting Started
