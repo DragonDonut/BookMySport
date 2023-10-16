@@ -1,21 +1,10 @@
-# bookmysport
+# Bookmysport
+Made for the 2022 Polyhack hackathon.
+Awarded the best IOT award and Merit award.
 
-# Check the Others folder for: 3d models, IoT programming
+# Check the Others folder for 3d models and IoT programming
+
+Mobile app is made in Flutter
+IOT is written on Arduino IDE and run on a NODEMCU ESP8266 board
 
 
-Rest is Flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
